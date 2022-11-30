@@ -1,7 +1,7 @@
 # Cell-Phenotyping
 The cell phenotyping framework presented here is just for review purposes.
 
-<img src='img_src/example.png' width=70%>
+<img src='img_src/lungImc.png' width=70%>
  
 An example of cell phenotyping on a complex cohort. Please note that unidentified cells are plotted in dark gray. 
 
