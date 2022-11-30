@@ -6,6 +6,8 @@ The cell phenotyping framework presented here is just for review purposes.
 An example of cell phenotyping on a complex cohort. Please note that unidentified cells are plotted in dark gray. 
 
 
+
+
 ## Requirements
 To be able to run the cell segmentation framework, one needs the following:
 
